@@ -1,5 +1,7 @@
 # Project: Text Color Setting
 
+***This is a program with React. In this project I can choose the font color, the font size in a specified range, and when you reset it will return to the default state.***
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
